@@ -1,1 +1,1 @@
-# Kaggle-MNIST-using-Logistic-Regression
+# Kaggle MNIST Digit Recognition
